@@ -91,7 +91,7 @@ Research topics include:
 * hyperparameter optimization
 * multi-region forecasting
 
-➡️ [Solar-Irradiance-Forecasting](https://github.com/walidmchara/Solar-Irradiance-Forecasting)
+➡️ [Solar-Irradiance-Forecasting-with-CNN-WNN-MMHA](https://github.com/walidmchara/Solar-Irradiance-Forecasting-with-CNN-WNN-MMHA)
 
 ---
 
@@ -359,13 +359,17 @@ Additional academic profiles, publications, ORCID, Google Scholar, LinkedIn, and
 
 ## ⭐ Portfolio Repositories
 
-| Research Area                 | Repository                                                                                  |
-| ----------------------------- | ------------------------------------------------------------------------------------------- |
-| Generative AI & 3D Inspection | [3D-Defect-Generation](https://github.com/walidmchara/3D-Defect-Generation)                 |
-| Battery Health                | [Battery-Health-Deep-Learning](https://github.com/walidmchara/Battery-Health-Deep-Learning) |
-| Solar Forecasting             | [Solar-Irradiance-Forecasting](https://github.com/walidmchara/Solar-Irradiance-Forecasting) |
-| Battery Safety                | [Thermal-Runaway-Prediction](https://github.com/walidmchara/Thermal-Runaway-Prediction)     |
-| Transformer Research          | [Time-Series-Transformer-Lab](https://github.com/walidmchara/Time-Series-Transformer-Lab)   |
+| Research Area | Repository |
+| --- | --- |
+| Generative AI & 3D Inspection | [3D-Defect-Generation](https://github.com/walidmchara/3D-Defect-Generation) |
+| Battery Health | [Battery-Health-Deep-Learning](https://github.com/walidmchara/Battery-Health-Deep-Learning) |
+| Battery Remaining Useful Life | [Hybrid Wavelet Transformer XGBoost RUL](https://github.com/walidmchara/Hybrid-wavelet-transformer-XGBoost-framework-for-accurate-lithium-ion-battery-RUL-prediction) |
+| Battery State of Health | [CNN-WNN-WBiLSTM Battery SOH](https://github.com/walidmchara/CNN-WNN-WBiLSTM-Battery-SOH) |
+| Battery State of Health | [Attention-Enhanced CNN-BiLSTM](https://github.com/walidmchara/Attention-Enhanced-CNN-BiLSTM-Framework-for-Lithium-Ion-Battery-State-of-Health-Prediction) |
+| Solar Forecasting | [Solar-Irradiance-Forecasting-with-CNN-WNN-MMHA](https://github.com/walidmchara/Solar-Irradiance-Forecasting-with-CNN-WNN-MMHA) |
+| Battery Safety | [Thermal-Runaway-Prediction](https://github.com/walidmchara/Thermal-Runaway-Prediction) |
+| Transformer Research | [Time-Series-Transformer-Lab](https://github.com/walidmchara/Time-Series-Transformer-Lab) |
+| Historical PV Forecasting | [One-Hour-Ahead PV Forecasting](https://github.com/walidmchara/One-Hour-ahead-photovoltaic-power-production-forecasting-methodology-based-on-machine-learning) |
 
 ---
 
