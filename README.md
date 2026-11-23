@@ -38,6 +38,8 @@ My research focuses on designing hybrid AI architectures that combine deep neura
 
 Research-oriented framework for generating realistic three-dimensional defects for industrial inspection applications.
 
+The current implementation uses synthetic volumes and a 3D autoencoder; the additional methods below are research directions, not necessarily implemented models.
+
 Topics include:
 
 * 3D generative models
@@ -101,6 +103,8 @@ Research topics include:
 
 Machine learning framework for predicting lithium-ion battery thermal runaway severity.
 
+The current baseline uses an MLP with CatBoost residual correction. Transformer-based safety modeling is a research direction.
+
 Research directions include:
 
 * battery safety intelligence
@@ -120,6 +124,8 @@ Research directions include:
 **Transformer • Informer • Linformer • Attention • Forecasting**
 
 Experimental research environment for benchmarking modern Transformer architectures for multivariate time-series forecasting.
+
+The current implementation contains LSTM and Transformer baselines; the other architectures listed below are potential extensions.
 
 Models and concepts include:
 
@@ -298,6 +304,8 @@ Detailed publication information will be progressively linked to the correspondi
 ---
 
 ## 📌 Reproducible Research Philosophy
+
+The repositories have different maturity levels. Consult each project's current code, data provenance, split protocol, and stated limitations; a portfolio description is not evidence that a result has been independently validated.
 
 Whenever possible, repositories in this portfolio provide:
 
